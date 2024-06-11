@@ -19,23 +19,29 @@ p {
 
 .podium {
     border: 3px dashed;
-    padding: 15px;
-    margin: 15px;
+    padding: 5px;
+    margin: 5px;
     width: min-content;
 }
 
 .metric {
     font-weight: bold;
-    padding: 15px;
-    margin: 15px;
+    padding: 5px;
+    margin: 5px;
 }
 
 .match {
-    padding: 15px;
-    margin: 15px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.data {
+    white-space: pre;
 }
 
 .data-tooltip {
+    padding: 5px;
+    margin: 5px;
     outline: none;
     position: relative;
 }

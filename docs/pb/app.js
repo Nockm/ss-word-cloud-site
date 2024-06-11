@@ -11,7 +11,7 @@ class AppComponent extends React.Component {
     }
 
     componentDidMount() {
-        fetch('data.json')
+        fetch('data/pb/data.json')
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Network response was not ok ' + response.statusText);
@@ -35,6 +35,7 @@ class AppComponent extends React.Component {
 
         return (
             <div>
+                <big><big><div>Work in progress, Just for fun! The data needs cleaning, I know.</div></big></big>
                 {
                     data.podiums.map((x, y) => this.renderPodium(x, y))
                 }
@@ -61,14 +62,20 @@ class AppComponent extends React.Component {
 
     renderMatch(match, index, metric) {
         return (
-            <div key={index} className="match">
-                <div class='data-tooltip'>
-                    <pre>[{match.award.players}] {match.award.value} </pre>
-                    <span class='data-tooltip-content'>
+            <div key={index} className="match" style={{ display: "flex" }}>
+                <span className='data-tooltip'>
+                    <a className="data" href="#">{match.award.players}</a>
+                    <span className='data-tooltip-content'>
+                        <img src={"data/pb/wordclouds/" + encodeURIComponent(match.award.players.join(", ").toLowerCase() + ".png")}></img>
+                    </span>
+                </span>
+                <span className='data-tooltip'>
+                    <a className="data" href="#">{match.award.value}</a>
+                    <span className='data-tooltip-content'>
                         <small><small><pre style={{ background: 'Black', color: 'white', padding: '8px' }}>{match.enriched_chart_str}</pre></small></small>
                     </span>
-                </div>
-            </div>
+                </span>
+            </div >
         )
     }
 }
