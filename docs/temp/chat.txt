@@ -265,3 +265,36 @@ These players speak rarely or focus almost exclusively on game logistics without
         Temperament: Almost entirely silent, only appearing to comment on the lack of players or game length.
 
         Typical Messages: "really no one here" , "same with longer CZ matches".
+
+
+
+------------
+
+
+
+spaceshark (Paranoid Ideation)
+Maintains a complex, internally consistent conspiracy theory ("Poserware") to explain personal failures.
+
+nemesis (Hyper-Rigidity)
+Compulsively polices others' "low effort" behavior (floating/typing) and enforces rigid moral/social standards through nagging or insults.
+
+antialiasing (Oppositional Defiance)
+Consistently challenges authority figures (moderators like gunishment) and social norms, often using aggressive, all-caps outbursts.
+
+zwix (Narcissistic Elitism)
+Dismisses others as "idiots" or "morons" while relying on tenure and perceived "principles" to maintain a sense of superiority.
+
+tool (Low Frustration Tolerance)
+Exhibits a blunt, derogatory communication style and a willingness to disrupt the team (team-killing) when others don't meet his standards.
+
+mercury (Cynical Realism)
+Frequently expresses skepticism and frustration with the "chaos" of the game, often using sarcasm to deflect personal or skill-based criticism.
+
+nabakatsu (Compensatory Grandiosity)
+Habitually challenges others to real-life physical confrontations (mats/dojo) or "name duels" to validate his status when challenged in-game.
+
+no one can kill me (Avoidant Detachment)
+Consistently uses humor ("that's what she said") and inquisitive small talk to avoid and defuse the rising interpersonal toxicity around him.
+
+gunishment (Authoritative Elitism)
+As a moderator, he displays a rigid "gatekeeper" mentality, frequently belittling players he deems "trash" while asserting his own dominance.
