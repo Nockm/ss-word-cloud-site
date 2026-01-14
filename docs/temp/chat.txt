@@ -1,143 +1,267 @@
-Tier 1: The Stabilizers
+Tier 1: The Antagonists
 
-These players act as the glue of the community, prioritizing the game and social harmony over ego.
+These players are consistently aggressive, confrontational, or highly critical of others. They frequently engage in insults or disruptive behavior.
 
-    no one can kill me: He is the primary advocate for a healthy community. He consistently attempts to de-escalate tension by advising others to ignore trolls (notably spaceshark and antialiasing), famously stating, "The more attention you give them, the more they will do it." He remains objective during disputes, focusing on game mechanics or player count rather than personal insults.
+    spaceshark
 
-    afri: A veteran teacher with a patient, professorial temperament. He spends significant portions of the log coaching players like Nemesis and Shaun on "bank shots" and defensive positioning. Even when players like Grunt attempt to provoke him with crude spam, he maintains his composure, choosing to continue his technical explanations as if the vitriol doesn't exist.
+        Temperament: Extremely confrontational and conspiratorial. He frequently accuses others of cheating ("poserware") and rigging the game. He often brings outside politics and aggressive real-life threats (e.g., challenges to a dojo) into the chat.
 
-    t1c0: An organizational pragmatist. His interactions are almost exclusively focused on the "health" of the match—adjusting team sizes, calling for map changes, and identifying lag issues. He handles the occasional "razzing" from others with a dry, non-confrontational wit and never initiates personal attacks.
+        Typical Messages:
 
-    gigamonster: Highly professional and technical. His temperament is that of a developer or administrator. He speaks almost exclusively about server stability, bug fixes, and game physics. He treats other players more like "users" or "testers," maintaining a polite but distant and task-oriented demeanor.
+            "GAME NEEDS A PURGE ON POSERWARE"
 
-    the seven year itch: A steady, administrative presence. He is the person most likely to manage the lobby's flow, asking players to sub in or out to keep games balanced. While he can be blunt when people aren't following the "room rules," he never crosses the line into hostility or personal denigration.
+            "sign a wavier not to sue after i demolish you in hte dojo"
 
-    abo: Extremely low-profile and stable. He limits his interactions toward others to necessary game information, such as sharing Discord links or organizing match times. He serves as a reliable, non-emotional anchor in the chat.
+            "you fiuc n g cheatrs"
 
-    legacy: A focused competitor who values "clean" gameplay. He communicates primarily through tactical calls (passing, positioning). When he does express frustration, it is directed at the "state of the game" (e.g., an unearned win due to a glitch) rather than targeting the players involved.
+    antialiasing (Nin9)
 
-Tier 2: Socially Passive / Casual
+        Temperament: Highly volatile and expressive, often using all caps for emphasis or jest. He frequently clashes with moderators like gunishment and is quick to insult teammates he perceives as "bad" or "ego-centric".
 
-These players are generally friendly or neutral, though they lack the active "stabilizing" efforts of Tier 1.
+        Typical Messages:
 
-    tom petty: The community’s "storyteller." He has a relaxed, jovial temperament, often sharing anecdotes about his personal life or cracking jokes to lighten the mood. His interactions with others are almost universally positive, though he occasionally expresses a humorous, "old-man" style annoyance with the faster, more chaotic elements of the game.
+            "PB IS A LOT MORE TOXIC THAN 4V4"
 
-    pallone1: A quiet, agreeable player. His temperament is defined by compliance; he goes along with majority votes for maps and rarely speaks unless spoken to. He shows no signs of aggression, even in high-pressure game moments.
+            "gunishments mother is a whore"
 
-    a mirror: A detached, cynical humorist. He views the chaos of the chat with a sense of "amused superiority." While he doesn't start fights, he enjoys commenting on them from the sidelines, often using sarcasm to point out how "stupid" the bickering is. He is non-hostile but can be perceived as slightly condescending.
+            "u guys r idiots"
 
-    ccruler: A sportsmanlike player who focuses on positive reinforcement. He is one of the few players who consistently compliments opponents on good shots. He rarely gets involved in the "drama," preferring to stay focused on his own performance and being a good teammate.
+    zwix
 
-    shaun: A curious and somewhat submissive temperament. He asks many questions and is often on the receiving end of "hazing" from more aggressive players. Instead of retaliating, he usually responds with self-deprecation or by doubling down on his desire to learn the game.
+        Temperament: Elitist and easily frustrated by "campers" or "idiots". He relies heavily on his long-term tenure in the game to dismiss others and has a low tolerance for players who do not follow his perceived "principles" of play.
 
-    furzkanon: Generally silent and observant. His few interactions with others are humble; he acknowledges when he is being carried by a better team and expresses a "student-like" attitude toward veteran players.
+        Typical Messages:
 
-Tier 3: The Critical Competitors
+            "as long as i can say 'idiots and morons'.. its ok :)"
 
-These players are generally "okay," but their temperament is easily soured by poor performance or perceived slights.
+            "u read more books than me... u a moron."
 
-    ucri: Persistent and sensitive. He has a habit of repeating tactical advice until it becomes a nuisance, and when players ignore him or mock him (like Zwix does), he becomes defensive and argumentative. He isn't a "bully," but he is consistently "on edge."
+            "i in the top tier here. just by the way i play"
 
-    nemesis: An irritable perfectionist. While he is capable of being a good teammate, his temperament is highly dependent on his team's performance. He is quick to label teammates as "idiots" or "pieces of shit" for missing simple goals, though he usually calms down if a higher-tier player (like Afri) corrects him.
+    nemesis (Kattster)
 
-    mercury: Opinionated and stubborn. He is the primary source of "playstyle conflict" in the logs, consistently berating anyone who plays "goalie" as a "coward" or "bad player." He enjoys the friction of debate and rarely lets a disagreement go until he has the last word.
+        Temperament: Highly critical and prone to lecture-style nagging. While he claims to want a more positive zone, he frequently gets into personal, heated arguments and often labels others as "disruptive trolls" while being equally vocal himself.
 
-    nabakatsu: Socially aggressive. He is "the cool guy" until he is crossed. He has a very low tolerance for anyone he perceives as a "liar" or "fake," at which point his temperament shifts from friendly to sharply insulting and dismissive.
+        Typical Messages:
 
-    shikaa: Defensiveness personified. His temperament is characterized by a "don't tell me what to do" attitude. Even well-meaning advice from teammates is met with hostility or a demand to "shut up," as he views any critique as a personal attack.
+            "save the toxicity for league"
 
-Tier 4: Hostile & Assertive
+            "you're a shitty person who enjoys making people less happy"
 
-These players use the chat as a tool for dominance or to express a consistently negative worldview.
+            "learn how to treat people, you dumb cunt."
 
-    gunishment: An elitist authoritarian. As a moderator/admin, he uses his temperament to gatekeep the community. He consistently belittles the intelligence of the player base, calling them "brain dead" or "trash," and uses his power to silence those who challenge his perspective on how the game should be played.
+    tool
 
-    tool: Maliciously toxic. Unlike the "hot-headed" players, Tool’s temperament is calculatedly mean. He admits to team-killing or sabotaging games specifically to make players he dislikes "cry." He uses ableist slurs consistently and shows zero remorse for being a disruptive force.
+        Temperament: Blunt, derogatory, and elitist regarding skill and internet quality. He openly admits to team-killing players he dislikes (specifically zwix) as a "strategy" and frequently calls others "retarded".
 
-    werito: A dedicated "agitator." He doesn't seem to care about the game as much as he cares about the reaction he can get from others. He uses "concern trolling" and circular logic to drive players like Nemesis into a rage, maintaining a smug, untouchable demeanor throughout.
+        Typical Messages:
 
-Tier 5: Highly Volatile / Pathological
+            "teamkilling zwix is a winning strategy"
 
-The most disruptive players, whose temperaments make normal interaction impossible.
+            "this guy is fucking retarded"
 
-    antialiasing: Manic and explosive. His temperament is a roller-coaster of spamming caps-lock, making bizarre legal threats, and engaging in deep-seated personal vendettas. He is prone to "meltdowns" where he fills the chat with gibberish or attacks on players' families for hours on end.
+            "why dont you people pay for better internet"
 
-    zwix: Threatening and elitist. He views himself as superior to the "peasants" in the lobby. His temperament is defined by a chilling level of aggression; he is the only player to consistently threaten real-world physical harm (crowbars, hiring people to break hands) over in-game disagreements.
+Tier 2: The Competitive Critics
 
-    spaceshark: Paranoid and obsessive. He does not play the game so much as he "monitors" it for what he believes is a global conspiracy of "poserware" cheaters. His temperament is that of a zealot—nothing can convince him he is wrong, and he uses every conversation as a springboard for "red pill" political or religious rants.
+These players are focused on gameplay and skill, but their frustration often manifests as vocal criticism or sarcasm toward teammates.
 
-    grunt: The "noise maker." His temperament is purely disruptive and juvenile. He focuses on a repetitive cycle of crude sexual insults and nonsensical catchphrases, showing no interest in the community or the game beyond his ability to drown out conversation.
+    mercury
 
-    cyclone: Erratic and delusional. Often targeted as a "community troll," his temperament is a mix of defensive paranoia (believing everyone is out to get him) and bizarre political outbursts. He is consistently viewed as a pariah by almost every other player on this list.
+        Temperament: Sarcastic and skeptical of others' skill or lag. He frequently complains about "hogs" and teammates not playing defense, often taking a "realist" or "cynical" tone toward the state of the game.
 
+        Typical Messages:
 
+            "nah, the best d is prevention"
 
+            "someone ban pez again"
 
+            "u guys suck at cherrypickin lol"
 
-    ---------------------
+    gunishment
 
+        Temperament: Authoritative and often elitist as a moderator. He is quick to call out "trash" play and frequently tells players to "go back to SVS" if they don't meet his standards, though he occasionally engages in playful banter.
 
+        Typical Messages:
 
-Based on the established temperaments and the specific vernacular used in the logs, here is a typical message each player would likely send to the chat:
+            "youre dogshit in every zone"
 
-Tier 1: The Stabilizers
+            "need to introduce some kind of elitism to pb"
 
-    no one can kill me: "just ignore the trolls and focus on the match, they only do it for the attention."
+            "sizzle sells the sausage"
 
-    afri: "if you bank the ball off the far wall when they are stacking the mid, you bypass their goalie entirely."
+    nabakatsu
 
-    t1c0: "let's move to a bigger map, 6v6 on this small arena is just a cluster."
+        Temperament: Playfully arrogant but can turn sharp when challenged. He often brags about "owning" other players but also acts as a "voice of reason" in some arguments, even while using colorful language.
 
-    gigamonster: "fixed the physics bug on the east server, let me know if the ball clipping persists."
+        Typical Messages:
 
-    the seven year itch: "we need one more player to sub in for red team so we can start the round."
+            "cranky ass old fucks"
 
-    abo: "match starting in 5 minutes, discord link is in the lobby description."
+            "I know you're a joke because you wont stfu"
 
-    legacy: "good pass, let’s keep the rotation tight and we can win this."
+            "gotta maintain my chill"
 
-Tier 2: Socially Passive / Casual
+    ucri (Curi)
 
-    tom petty: "that reminds me of this time back in the 90s when we used to play on dial-up, absolute chaos."
+        Temperament: Opportunistic and mocking. He leans into his reputation as a "troll" and frequently baits other players (like zwix and nemesis) with talk of "power plays" and "imaginary lines".
 
-    pallone1: "voted for the classic map, the new one is a bit too laggy for me."
+        Typical Messages:
 
-    a mirror: "watching you two argue over a 20-year-old game is the highlight of my afternoon."
+            "dont cross any imaginary lines pal"
 
-    ccruler: "nice shot man, i didn't think you'd make that angle from across the map."
+            "POW POW POWER PLAY"
 
-    shaun: "how do you guys jump that high? i feel like i'm playing in slow motion."
+            "love seeing my name using negativly"
 
-    furzkanon: "i'm trying my best but i think i'm just bringing the team down right now lol."
+    the seven year itch
 
-Tier 3: The Critical Competitors
+        Temperament: Confident and task-oriented, but occasionally makes excuses for "choking". He mostly focuses on game logistics but will snap back at mercury or others when they fail the team.
 
-    ucri: "stop camping the spawn! i've told you three times we need pressure in the mid-field!"
+        Typical Messages:
 
-    nemesis: "my team has zero IQ, how do you miss an open net from two inches away? total trash."
+            "time to put team on my back"
 
-    mercury: "imagine playing goalie in an arcade game. stop being cowards and actually play the ball."
+            "7 chokes for seven"
 
-    nabakatsu: "don't lie and say you lagged, you just made a bad play. be honest for once."
+            "Mercury failed ur team"
 
-    shikaa: "i don't care what your strategy is, stop telling me what buttons to press and just play."
+Tier 3: The Casual Players & Banterers
 
-Tier 4: Hostile & Assertive
+These players generally maintain a neutral or positive attitude, focusing on the social aspect or small talk, though they may occasionally snap in the heat of a game.
 
-    gunishment: "you're lucky i don't ban you for being this bad at the game. absolute brain-dead play."
+    a mirror (Sath)
 
-    tool: "i'm going to team-kill you every time you spawn until you leave the server, cry about it."
+        Temperament: Generally social and talkative about non-game topics, but can be dismissive of "crying" or complaints from others. He often acts as a moderator for game changes, even if it annoys others.
 
-    werito: "u mad nemesis? you seem pretty mad. keep typing in caps, it's hilarious."
+        Typical Messages:
 
-Tier 5: Highly Volatile / Pathological
+            "gotta play the safe then sorry approach"
 
-    antialiasing: "I AM RECORDING THIS. PREPARE TO GET SUED FOR DEFAMATION. ENJOY THE 90 DAY BAN!!!"
+            "god do u cry about everything"
 
-    zwix: "keep talking and i'll find out where you live. i'll pay someone to use a crowbar on your hands."
+            "i got a blackbelt in slaughtering words"
 
-    spaceshark: "everyone on blue team is using poserware. you think we can't see the scripts? enjoy your red pill."
+    no one can kill me
 
-    grunt: "WORLDSTAR!! YOUR MOM IS AT MY HOUSE RIGHT NOW. BUD LIGHT FOR EVERYONE!!"
+        Temperament: Laid-back, inquisitive, and often uses humor to defuse tension. He frequently asks questions about game mechanics and engages in long, friendly chats about things like pizza or hardware.
 
-    cyclone: "the demons are in the chat again. they're trying to suppress the truth. you're all sheep."
+        Typical Messages:
+
+            "that's what she said"
+
+            "i like to ignore trolls they just want attention"
+
+            "cognitive bias is real"
+
+    t1c0
+
+        Temperament: Competitive but mostly friendly, often engaging in "bro-talk" and teasing. He is prone to some frustration with lag and "chaos," but generally stays out of the most toxic personal feuds.
+
+        Typical Messages:
+
+            "team made from legos"
+
+            "amazing no one wanted to be goalie"
+
+            "you guys got a free goal hackers"
+
+    werito
+
+        Temperament: Witty, sarcastic, and enjoys debating. He often counters conspiratorial rants with logic or dry humor and is one of the few players who pushes back effectively against nemesis's nagging.
+
+        Typical Messages:
+
+            "i'd rather die than listen to you whine :P"
+
+            "books are for idiots"
+
+            "WITH OUR POWERS COMBINED WE ARE VERY GOOD ABRAIN"
+
+    tom petty
+
+        Temperament: Chill and often humorous. He frequently mentions real-life distractions like food or his laptop turning off and generally maintains a "just here to play" attitude.
+
+        Typical Messages:
+
+            "i'm new here, how do u score"
+
+            "your words are violence"
+
+            "nah, i'm just really good"
+
+    afri
+
+        Temperament: Generally helpful and instructional toward newer players, though he can be vocal about "carrying" the team. He is respected by others for his skill but can get frustrated by lag.
+
+        Typical Messages:
+
+            "SCRIM FATIGUE IS REAL"
+
+            "i was lecturing actually"
+
+            "GOD DAMN SNEAKERS TOO FUCKING FAST"
+
+Tier 4: The Low-Profile / Silent Contributors
+
+These players speak rarely or focus almost exclusively on game logistics without engaging in the broader social drama.
+
+    cyclone
+
+        Temperament: Blunt and often politically opinionated when he does speak, but otherwise keeps to the game. He is often a target of others' jokes regarding his skill or habits.
+
+        Typical Messages: "dont vote for demoncrats" , "god made woman mans helper".
+
+    grunt
+
+        Temperament: Uses a lot of repetitive, scripted-sounding "trash talk" (Worldstar, Bud Light jokes). He is frequently the target of nemesis's frustration for "floating and typing" rather than playing.
+
+        Typical Messages: "NaBaKaTsu wears Capri pants" , "Nemesis drinks Bud Light".
+
+    ccruler
+
+        Temperament: Humble and self-deprecating, often admitting to being an "old man" who gets tired or lags. He is generally seen as a "good guy" by the community.
+
+        Typical Messages: "the lag in here is bad" , "this old man is getting tired".
+
+    shikaa
+
+        Temperament: Mostly focuses on filling spots in teams and simple game observations. He often tries to keep the peace, telling others to "lighten up".
+
+        Typical Messages: "lighten up good fellows" , "we're all friends here".
+
+    gigamonster
+
+        Temperament: Quiet and focused on tech or map settings. He rarely joins in the insults and is described by others as "humble".
+
+        Typical Messages: "it will switch to smallpub on the next goal" , "actually i haven't made any [cookies] in a while".
+
+    pallone1
+
+        Temperament: Logical and pragmatic, mostly speaking to suggest map changes or game modes.
+
+        Typical Messages: "whats the point of a voting system if its not used" , "u can always buy new eyes".
+
+    legacy
+
+        Temperament: Can be slightly abrasive or arrogant about his wins, but speaks much less than the Tier 1 players.
+
+        Typical Messages: "such an unearned win" , "el caca shut up and duel me".
+
+    shaun
+
+        Temperament: Minimal presence; mostly focused on game votes and logistics.
+
+        Typical Messages: "new vote lodged for game change?" , "ports dont have legs".
+
+    furzkanon
+
+        Temperament: Very quiet; occasionally comments on a missed shot or a "good one".
+
+        Typical Messages: "was a good one" , "i didn't order a pizza".
+
+    abo
+
+        Temperament: Almost entirely silent, only appearing to comment on the lack of players or game length.
+
+        Typical Messages: "really no one here" , "same with longer CZ matches".
