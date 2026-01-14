@@ -1,29 +1,71 @@
-1. tom petty (The Relaxed Wit)
-Rank: Most Level-Headed Still the gold standard for calm. He uses humor and pop culture to diffuse tension and views the game through a lens of entertainment.
+Tier 1: The Stabilizers
 
-2. shikaa (The Casual Socialite)
-Rank: Playful & Food-Oriented Maintains a very lighthearted attitude. Their focus on cinnamon rolls and self-mocking jokes makes them one of the most pleasant presences in the chat.
+These players act as the glue of the community, prioritizing the game and social harmony over ego.
 
-3. the seven year itch (The Energetic Hype-Man)
-Rank: Playfully Dramatic Upgraded from #6. With the context that their talk of "bad guys" and "choking" is a bit, they emerge as the heartbeat of the lobby. They are highly social, deeply engaged, and their "aggression" is actually a form of inclusive banter that keeps the games running and the energy high.
+    no one can kill me: He is the primary advocate for a healthy community. He consistently attempts to de-escalate tension by advising others to ignore trolls (notably spaceshark and antialiasing), famously stating, "The more attention you give them, the more they will do it." He remains objective during disputes, focusing on game mechanics or player count rather than personal insults.
 
-4. abo (The Stoic Veteran)
-Rank: Stable & Experienced Abo remains high on the list for their "cheers" and general politeness, though they have a lower tolerance for poor play than the top three and will simply leave if the game isn't meeting their standards.
+    afri: A veteran teacher with a patient, professorial temperament. He spends significant portions of the log coaching players like Nemesis and Shaun on "bank shots" and defensive positioning. Even when players like Grunt attempt to provoke him with crude spam, he maintains his composure, choosing to continue his technical explanations as if the vitriol doesn't exist.
 
-5. shaun (The Focused Specialist)
-Rank: Eccentric & Technical Shaun isn't mean-spirited, but their extreme focus on racing records and technical minutiae makes them less "socially relaxed" than the people above them. They are in their own world of wall-bounces and personal history.
+    t1c0: An organizational pragmatist. His interactions are almost exclusively focused on the "health" of the match—adjusting team sizes, calling for map changes, and identifying lag issues. He handles the occasional "razzing" from others with a dry, non-confrontational wit and never initiates personal attacks.
 
-6. mercury (The Provocateur)
-Rank: High-Energy Banter Mercury is the classic "troll" in the group. While mostly playful, the sheer volume of "lol" and "choke" (1,360 times!) suggests they enjoy the friction. They aren't "angry," but they aren't exactly "calm" either—they are constantly trying to get a reaction.
+    gigamonster: Highly professional and technical. His temperament is that of a developer or administrator. He speaks almost exclusively about server stability, bug fixes, and game physics. He treats other players more like "users" or "testers," maintaining a polite but distant and task-oriented demeanor.
 
-7. sawhetowl (The Fragmented/Reactive)
-Rank: Short Fuse Unlike 'itch', Sawhetowl’s outbursts ("stfu and die") feel less like a coordinated "bit" and more like genuine reactive frustration. Their keyboard-mashing and abrupt insults put them lower on the temperament scale.
+    the seven year itch: A steady, administrative presence. He is the person most likely to manage the lobby's flow, asking players to sub in or out to keep games balanced. While he can be blunt when people aren't following the "room rules," he never crosses the line into hostility or personal denigration.
 
-8. lemonaire (The Harsh Critic)
-Rank: Hyper-Critical Lemonaire’s temperament is defined by performance-based negativity. Labeling teammates as "dead weight" or "low risk players" creates a serious, high-pressure environment that drains the fun for others.
+    abo: Extremely low-profile and stable. He limits his interactions toward others to necessary game information, such as sharing Discord links or organizing match times. He serves as a reliable, non-emotional anchor in the chat.
 
-9. nabakatsu (The Irritable Gatekeeper)
-Rank: Impatient & Blunt Nabakatsu has a very low threshold for social interaction during games. Their commands to "stop fucking talking" and focus on the match indicate a temperament that is easily bothered by the presence of other players' personalities.
+    legacy: A focused competitor who values "clean" gameplay. He communicates primarily through tactical calls (passing, positioning). When he does express frustration, it is directed at the "state of the game" (e.g., an unearned win due to a glitch) rather than targeting the players involved.
 
-10. zwix (The Hostile Elitist)
-Rank: Most Volatile Zwix remains the outlier. Regardless of their recipes for avocado oil, their history of elitism ("go read books") and extreme real-world threats puts them at the bottom of any temperament ranking.
+Tier 2: Socially Passive / Casual
+
+These players are generally friendly or neutral, though they lack the active "stabilizing" efforts of Tier 1.
+
+    tom petty: The community’s "storyteller." He has a relaxed, jovial temperament, often sharing anecdotes about his personal life or cracking jokes to lighten the mood. His interactions with others are almost universally positive, though he occasionally expresses a humorous, "old-man" style annoyance with the faster, more chaotic elements of the game.
+
+    pallone1: A quiet, agreeable player. His temperament is defined by compliance; he goes along with majority votes for maps and rarely speaks unless spoken to. He shows no signs of aggression, even in high-pressure game moments.
+
+    a mirror: A detached, cynical humorist. He views the chaos of the chat with a sense of "amused superiority." While he doesn't start fights, he enjoys commenting on them from the sidelines, often using sarcasm to point out how "stupid" the bickering is. He is non-hostile but can be perceived as slightly condescending.
+
+    ccruler: A sportsmanlike player who focuses on positive reinforcement. He is one of the few players who consistently compliments opponents on good shots. He rarely gets involved in the "drama," preferring to stay focused on his own performance and being a good teammate.
+
+    shaun: A curious and somewhat submissive temperament. He asks many questions and is often on the receiving end of "hazing" from more aggressive players. Instead of retaliating, he usually responds with self-deprecation or by doubling down on his desire to learn the game.
+
+    furzkanon: Generally silent and observant. His few interactions with others are humble; he acknowledges when he is being carried by a better team and expresses a "student-like" attitude toward veteran players.
+
+Tier 3: The Critical Competitors
+
+These players are generally "okay," but their temperament is easily soured by poor performance or perceived slights.
+
+    ucri: Persistent and sensitive. He has a habit of repeating tactical advice until it becomes a nuisance, and when players ignore him or mock him (like Zwix does), he becomes defensive and argumentative. He isn't a "bully," but he is consistently "on edge."
+
+    nemesis: An irritable perfectionist. While he is capable of being a good teammate, his temperament is highly dependent on his team's performance. He is quick to label teammates as "idiots" or "pieces of shit" for missing simple goals, though he usually calms down if a higher-tier player (like Afri) corrects him.
+
+    mercury: Opinionated and stubborn. He is the primary source of "playstyle conflict" in the logs, consistently berating anyone who plays "goalie" as a "coward" or "bad player." He enjoys the friction of debate and rarely lets a disagreement go until he has the last word.
+
+    nabakatsu: Socially aggressive. He is "the cool guy" until he is crossed. He has a very low tolerance for anyone he perceives as a "liar" or "fake," at which point his temperament shifts from friendly to sharply insulting and dismissive.
+
+    shikaa: Defensiveness personified. His temperament is characterized by a "don't tell me what to do" attitude. Even well-meaning advice from teammates is met with hostility or a demand to "shut up," as he views any critique as a personal attack.
+
+Tier 4: Hostile & Assertive
+
+These players use the chat as a tool for dominance or to express a consistently negative worldview.
+
+    gunishment: An elitist authoritarian. As a moderator/admin, he uses his temperament to gatekeep the community. He consistently belittles the intelligence of the player base, calling them "brain dead" or "trash," and uses his power to silence those who challenge his perspective on how the game should be played.
+
+    tool: Maliciously toxic. Unlike the "hot-headed" players, Tool’s temperament is calculatedly mean. He admits to team-killing or sabotaging games specifically to make players he dislikes "cry." He uses ableist slurs consistently and shows zero remorse for being a disruptive force.
+
+    werito: A dedicated "agitator." He doesn't seem to care about the game as much as he cares about the reaction he can get from others. He uses "concern trolling" and circular logic to drive players like Nemesis into a rage, maintaining a smug, untouchable demeanor throughout.
+
+Tier 5: Highly Volatile / Pathological
+
+The most disruptive players, whose temperaments make normal interaction impossible.
+
+    antialiasing: Manic and explosive. His temperament is a roller-coaster of spamming caps-lock, making bizarre legal threats, and engaging in deep-seated personal vendettas. He is prone to "meltdowns" where he fills the chat with gibberish or attacks on players' families for hours on end.
+
+    zwix: Threatening and elitist. He views himself as superior to the "peasants" in the lobby. His temperament is defined by a chilling level of aggression; he is the only player to consistently threaten real-world physical harm (crowbars, hiring people to break hands) over in-game disagreements.
+
+    spaceshark: Paranoid and obsessive. He does not play the game so much as he "monitors" it for what he believes is a global conspiracy of "poserware" cheaters. His temperament is that of a zealot—nothing can convince him he is wrong, and he uses every conversation as a springboard for "red pill" political or religious rants.
+
+    grunt: The "noise maker." His temperament is purely disruptive and juvenile. He focuses on a repetitive cycle of crude sexual insults and nonsensical catchphrases, showing no interest in the community or the game beyond his ability to drown out conversation.
+
+    cyclone: Erratic and delusional. Often targeted as a "community troll," his temperament is a mix of defensive paranoia (believing everyone is out to get him) and bizarre political outbursts. He is consistently viewed as a pariah by almost every other player on this list.
