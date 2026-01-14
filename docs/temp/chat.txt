@@ -69,3 +69,75 @@ The most disruptive players, whose temperaments make normal interaction impossib
     grunt: The "noise maker." His temperament is purely disruptive and juvenile. He focuses on a repetitive cycle of crude sexual insults and nonsensical catchphrases, showing no interest in the community or the game beyond his ability to drown out conversation.
 
     cyclone: Erratic and delusional. Often targeted as a "community troll," his temperament is a mix of defensive paranoia (believing everyone is out to get him) and bizarre political outbursts. He is consistently viewed as a pariah by almost every other player on this list.
+
+
+
+
+
+    ---------------------
+
+
+
+Based on the established temperaments and the specific vernacular used in the logs, here is a typical message each player would likely send to the chat:
+
+Tier 1: The Stabilizers
+
+    no one can kill me: "just ignore the trolls and focus on the match, they only do it for the attention."
+
+    afri: "if you bank the ball off the far wall when they are stacking the mid, you bypass their goalie entirely."
+
+    t1c0: "let's move to a bigger map, 6v6 on this small arena is just a cluster."
+
+    gigamonster: "fixed the physics bug on the east server, let me know if the ball clipping persists."
+
+    the seven year itch: "we need one more player to sub in for red team so we can start the round."
+
+    abo: "match starting in 5 minutes, discord link is in the lobby description."
+
+    legacy: "good pass, let’s keep the rotation tight and we can win this."
+
+Tier 2: Socially Passive / Casual
+
+    tom petty: "that reminds me of this time back in the 90s when we used to play on dial-up, absolute chaos."
+
+    pallone1: "voted for the classic map, the new one is a bit too laggy for me."
+
+    a mirror: "watching you two argue over a 20-year-old game is the highlight of my afternoon."
+
+    ccruler: "nice shot man, i didn't think you'd make that angle from across the map."
+
+    shaun: "how do you guys jump that high? i feel like i'm playing in slow motion."
+
+    furzkanon: "i'm trying my best but i think i'm just bringing the team down right now lol."
+
+Tier 3: The Critical Competitors
+
+    ucri: "stop camping the spawn! i've told you three times we need pressure in the mid-field!"
+
+    nemesis: "my team has zero IQ, how do you miss an open net from two inches away? total trash."
+
+    mercury: "imagine playing goalie in an arcade game. stop being cowards and actually play the ball."
+
+    nabakatsu: "don't lie and say you lagged, you just made a bad play. be honest for once."
+
+    shikaa: "i don't care what your strategy is, stop telling me what buttons to press and just play."
+
+Tier 4: Hostile & Assertive
+
+    gunishment: "you're lucky i don't ban you for being this bad at the game. absolute brain-dead play."
+
+    tool: "i'm going to team-kill you every time you spawn until you leave the server, cry about it."
+
+    werito: "u mad nemesis? you seem pretty mad. keep typing in caps, it's hilarious."
+
+Tier 5: Highly Volatile / Pathological
+
+    antialiasing: "I AM RECORDING THIS. PREPARE TO GET SUED FOR DEFAMATION. ENJOY THE 90 DAY BAN!!!"
+
+    zwix: "keep talking and i'll find out where you live. i'll pay someone to use a crowbar on your hands."
+
+    spaceshark: "everyone on blue team is using poserware. you think we can't see the scripts? enjoy your red pill."
+
+    grunt: "WORLDSTAR!! YOUR MOM IS AT MY HOUSE RIGHT NOW. BUD LIGHT FOR EVERYONE!!"
+
+    cyclone: "the demons are in the chat again. they're trying to suppress the truth. you're all sheep."
